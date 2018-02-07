@@ -1,0 +1,22 @@
+{
+  "name": "npm-shp-geojson",
+  "version": "0.0.9",
+  "main": "index.js",
+  "author": "cyxborg <syn.pinocchio@gmail.com>",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyxborg/npm-shp-geojson.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "del": "^3.0.0",
+    "unzip": "^0.1.11"
+  },
+  "devDependencies": {
+    "npm-shp-geojson": "^0.0.9"
+  }
+}
