@@ -20,3 +20,4 @@ nsg.exec("N03-170101_09_GML.zip")
 nsg.exec("N03-170101_09_GML.zip", "mydest")
 // > mydest配下にgeojsonファイルが生成される
 ```
+生成されるgeojsonファイルのエンコードはShift-JIS
